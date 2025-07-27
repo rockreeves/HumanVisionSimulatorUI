@@ -196,14 +196,11 @@ class MyWindow(QMainWindow, Ui_MainWindow):
         渲染球面投影到指定的 QtInteractor（plotter）中，嵌入到 vtkWidget。
         """
 
-        # ✅ 只在第一次时设置布局
         if vtkWidget.layout() is None:
             layout = QtWidgets.QVBoxLayout(vtkWidget)
             layout.setContentsMargins(0, 0, 0, 0)
             layout.addWidget(plotter)
 
-        # ✅ 不要清空 plotter（保留内容）
-        # plotter.clear()  # <-- 不再调用
         plotter.set_background("black") 
 
         # 生成球体网格

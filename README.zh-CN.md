@@ -1,6 +1,6 @@
 # OpenHV软件开发文档——HumanVisionSimulatorUI
 
-本文档主要介绍了论文[Bionic Vision Processing for Epiretinal Implant-Based Metaverse](https://pubs.acs.org/doi/full/10.1021/acsaom.3c00431)的软件。
+本文档主要介绍了论文[Bionic Vision Processing for Epiretinal Implant-Based Metaverse](https://pubs.acs.org/doi/full/10.1021/acsaom.3c00431)及其相关论文中使用的软件。
 
 🌐 可用语言: [English](README.md) | [简体中文](README.zh-CN.md)
 

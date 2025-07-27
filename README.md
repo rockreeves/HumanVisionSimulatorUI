@@ -1,6 +1,6 @@
 # OpenHV Software Development Documentation – HumanVisionSimulatorUI
 
-This document mainly introduces the software described in the paper [Bionic Vision Processing for Epiretinal Implant-Based Metaverse](https://pubs.acs.org/doi/full/10.1021/acsaom.3c00431).
+This document primarily introduces the software used in Paper [Bionic Vision Processing for Epiretinal Implant-Based Metaverse](https://pubs.acs.org/doi/full/10.1021/acsaom.3c00431) and related papers.
 
 🌐 Available Languages: [English](README.md) | [简体中文](README.zh-CN.md)
 
